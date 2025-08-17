@@ -1,4 +1,3 @@
-```markdown
 # Image Caption Generator
 
 This project automatically generates descriptions for images using AI models and translates them from English to Russian.
